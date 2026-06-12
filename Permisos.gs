@@ -1,0 +1,1 @@
+// Permisos.gs - placeholder
